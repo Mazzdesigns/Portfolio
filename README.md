@@ -60,7 +60,7 @@
                 <div class="social-media-div">
                     <h1 class="heading-6">Follow me</h1><div class="w-layout-grid social-media-link-grid"><a href="https://twitter.com/Massda_11?s=08" target="_blank" class="link-block-twitter w-inline-block"></a><a href="https://www.linkedin.com/in/masda-rasman-8a9790207/" target="_blank" class="link-block-3 w-inline-block"></a><a href="https://www.instagram.com/invites/contact/?i=yjsqc8y4at7d&amp;utm_content=wzu9cq" target="_blank" class="link-block w-inline-block"></a></div></div></div>
             <div class="footer">
-                <div class="text-block">Copyright © Masda Rasman.2021 All rights reserved.</div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fe33c9f753d11c6883b31e7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="js/webflow.js" type="text/javascript"></script>
+                <div class="text-block">Copyright © MazzDesignss. 2024 All rights reserved.</div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fe33c9f753d11c6883b31e7" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="js/webflow.js" type="text/javascript"></script>
         <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
     </body>
 </html>
